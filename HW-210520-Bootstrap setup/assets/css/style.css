@@ -1,0 +1,22 @@
+
+header{
+    background-color: #575757;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    background: url("https://img.freepik.com/free-psd/fire-logo_253059-60.jpg?size=626&ext=jpg&ga=GA1.2.1362209291.1620518400");
+    background-position: center;
+    background-size: cover;
+}
+
+.links ul{
+    list-style-type: none;
+}
+
+.links ul li a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: antiquewhite;    
+}
